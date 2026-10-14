@@ -147,7 +147,13 @@
     .ludo .hhh1{
         border-top:2.5px solid black;
         width:36%;
-        margin-top:-250px;
+        margin-top:-245px;
+        margin-left:0px;
+    }
+    .ludo .hhh2{
+        border-top:2.5px solid black;
+        width:36%;
+        margin-top:48px;
         margin-left:0px;
     }
 
